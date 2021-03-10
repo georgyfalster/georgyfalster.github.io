@@ -1,0 +1,29 @@
+baseURL = "https://georgyfalster.github.io/"
+languageCode = "en"
+title = "Georgina (Georgy) Falster"
+theme = "dimension"
+googleAnalytics = "UA-149584993-1"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      
+[params]
+    author = "Georgy Falster"
+    
+    #logoIcon = "fab fa-cloud"
+    #logoImage = "face.jpg"
+     baseFontSize = "0.9rem"
+     overlayOpacityPercentage = "30"
+     disableImageOverlay = false
+     modalWidth = "50rem"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "fab fa-twitter"
+  link = "https://twitter.com/raindrop_herder"
+  
+  
+[permalinks]
+    "" = "/#:filename"
