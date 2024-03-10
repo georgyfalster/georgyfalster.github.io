@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Georgina (Georgy) Falster on My New Hugo Site</title>
+    <link>https://georgyfalster.github.io/</link>
+    <description>Recent content in Georgina (Georgy) Falster on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://georgyfalster.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://georgyfalster.github.io/about_me/</link>
+      <pubDate>Fri, 22 Jan 2021 16:30:12 +1030</pubDate>
+      <guid>https://georgyfalster.github.io/about_me/</guid>
+      <description>I am a climate scientist. I try to understand what Earth&amp;rsquo;s climate would look like now, if not for human activities like greenhouse gas and aerosol emissions. Part of that involves understanding modern climate dynamics. Another part involves studying climate variability in the time before the Industrial Revolution. Figuring out the difference between those two things helps us to understand how and why Earth&amp;rsquo;s climate is changing today, and hence how it might change in the future.</description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>https://georgyfalster.github.io/updates/</link>
+      <pubDate>Fri, 22 Jan 2021 16:30:12 +1030</pubDate>
+      <guid>https://georgyfalster.github.io/updates/</guid>
+      <description>6 MARCH 2024 Just published in Science Advances: our extremely comprehensive analysis of the development, drivers, and impacts of south-eastern Australia&amp;rsquo;s 2017-2019 &amp;lsquo;Tinderbox&amp;rsquo; Drought - the one that set the conditions for the 2019 Black Summer fires.&#xA;The paper is the culmination of a glorious collaboration between the ARC Centre of Excellence for Climate Extremes&amp;rsquo; finest drought scientists, and covers everything from agriculture and vegetation impacts to remote drivers and climate change contribution.</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>https://georgyfalster.github.io/publications/</link>
+      <pubDate>Fri, 22 Jan 2021 16:30:12 +1030</pubDate>
+      <guid>https://georgyfalster.github.io/publications/</guid>
+      <description>Published Journal Articles Falster, G., N. Wright, N. Abram. A. Ukkola, B. Henley. &amp;ldquo;Emerging anthropogenic influence on Australian multi-year droughts with potential for historically unprecedented megadroughts&amp;rdquo;. In press at Hydrology and Earth System Sciences with revised title &amp;lsquo;Potential for historically unprecedented Australian droughts from natural variability and climate change&amp;rsquo;. Link to preprint. Devanand, A., G. Falster, Z. Gillett, S. Hobeichi, C. Holgate, C. Jin, M. Mu, T. Parker, S. Rifai, K.</description>
+    </item>
+    <item>
+      <title>CV</title>
+      <link>https://georgyfalster.github.io/cv/</link>
+      <pubDate>Fri, 22 Jan 2021 16:30:12 +1030</pubDate>
+      <guid>https://georgyfalster.github.io/cv/</guid>
+      <description>Full curriculum vitae Current Affiliation Postdoctoral fellow The Australian National University&#xA;I am combining information from modern observational data, palaeoclimate proxy data, and model simulations to better understand the dynamics and drivers of Australian drought.&#xA;Previous Affiliation Postdoctoral research associate Washington University in St. Louis&#xA;Using water isotope observations, proxy records, and model simulations to investigate forced and internal variability in ocean-atmosphere circulation.&#xA;Education PhD (awarded April 2019) The University of Adelaide, Australia</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://georgyfalster.github.io/contact/</link>
+      <pubDate>Fri, 22 Jan 2021 16:30:12 +1030</pubDate>
+      <guid>https://georgyfalster.github.io/contact/</guid>
+      <description>Journalists: please see my Scimex profile.&#xA;Otherwise, my contact details are available from my institutional profile.&#xA;Here I am with my favourite instrument - the Picarro L2140-i cavity ring-down spectroscopy water isotope analyser.</description>
+    </item>
+  </channel>
+</rss>
