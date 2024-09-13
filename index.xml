@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Georgina (Georgy) Falster on My New Hugo Site</title>
+    <link>https://georgyfalster.github.io/</link>
+    <description>Recent content in Georgina (Georgy) Falster on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://georgyfalster.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://georgyfalster.github.io/about_me/</link>
+      <pubDate>Fri, 22 Jan 2021 16:30:12 +1030</pubDate>
+      <guid>https://georgyfalster.github.io/about_me/</guid>
+      <description>I am a climate scientist. I try to understand what Earth&amp;rsquo;s climate would look like now, if not for human activities like greenhouse gas and aerosol emissions. Part of that involves understanding modern climate dynamics. Another part involves studying climate variability in the time before the Industrial Revolution. Figuring out the difference between those two things helps us to understand how and why Earth&amp;rsquo;s climate is changing today, and hence how it might change in the future.</description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>https://georgyfalster.github.io/updates/</link>
+      <pubDate>Fri, 22 Jan 2021 16:30:12 +1030</pubDate>
+      <guid>https://georgyfalster.github.io/updates/</guid>
+      <description>24 AUGUST 2024 A very exciting announcement - I was lucky enough to be awarded an Australian Research Council DECRA fellowship. This major grant will support my research over the next three years, using multiple information sources to quantify Australia&amp;rsquo;s long-term rainfall risk.&#xA;This fellowship will allow me the freedom to keep pushing the boundaries of my particular flavour of (palaeo)climate science - blending information from climate models, weather observations, and palaeoclimate proxy data to allow a holistic understanding of the water cycle and how it&amp;rsquo;s changing with human-caused climate change.</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>https://georgyfalster.github.io/publications/</link>
+      <pubDate>Fri, 22 Jan 2021 16:30:12 +1030</pubDate>
+      <guid>https://georgyfalster.github.io/publications/</guid>
+      <description>Publications on Google Scholar Link to my Google Scholar profile&#xA;Published Journal Articles Falster, G., N. Wright, N. Abram. A. Ukkola, B. Henley. 2024. &amp;ldquo;Potential for historically unprecedented Australian droughts from natural variability and climate change&amp;rdquo;. Hydrology and Earth System Sciences 28: 1383-1401. Link to publication. Devanand, A., G. Falster, Z. Gillett, S. Hobeichi, C. Holgate, C. Jin, M. Mu, T. Parker, S. Rifai, K. Rome, M. Stojanovic, E. Vogel, N.</description>
+    </item>
+    <item>
+      <title>CV</title>
+      <link>https://georgyfalster.github.io/cv/</link>
+      <pubDate>Fri, 22 Jan 2021 16:30:12 +1030</pubDate>
+      <guid>https://georgyfalster.github.io/cv/</guid>
+      <description>Full curriculum vitae Current Affiliation Postdoctoral fellow The Australian National University&#xA;I combine information from modern observational data, palaeoclimate proxy data, and model simulations to better understand the dynamics and drivers of Australian drought.&#xA;Previous Affiliation Postdoctoral research associate Washington University in St. Louis&#xA;I used water isotope observations, proxy records, and model simulations to investigate forced and internal variability in ocean-atmosphere circulation.&#xA;Education PhD (awarded April 2019) The University of Adelaide, Australia</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://georgyfalster.github.io/contact/</link>
+      <pubDate>Fri, 22 Jan 2021 16:30:12 +1030</pubDate>
+      <guid>https://georgyfalster.github.io/contact/</guid>
+      <description>Journalists: please see my Scimex profile.&#xA;Otherwise, my contact details are available from my institutional profile.&#xA;Here I am with my favourite instrument - the Picarro L2140-i cavity ring-down spectroscopy water isotope analyser.</description>
+    </item>
+  </channel>
+</rss>
